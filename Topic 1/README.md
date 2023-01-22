@@ -9,24 +9,11 @@ The different terminologies, as well as modeling and design using relational dat
 4. Create teams and understand the members' roles and responsibilities.<br>
 5. Demonstrate an understanding of a database.<br><br>
 ----
-
-
-
-### Assignment 1:
-Constructing a model in a relational database using ERD allows students to understand and practice modeling concepts in relational databases.
-
-Create an entity relation diagram (ERD) model (using correct connection symbols for relations) for a relational database based on the Crow's Foot notation using the following requirements:
-
-1) An INVOICE is written by a SALESREP. <br>
-2) A sales representative can write many invoices, but an invoice is written by a single sales representative.<br>
-3) The INVOICE is written for a single CUSTOMER. However, each customer can have many invoices.<br>
-4) An INVOICE can include many detail lines (LINE); each Line describes one product and the number of products, as well as total cost bought by the customer.<br>
-5) The product information is stored in a PRODUCT entity.<br>
-6) The product’s vendor information is found in a VENDOR entity. (You may assume each vendor can have many products and a product can be obtained from many vendors.)
-----
 ## What is in this folder:
 1. InvoiceERD.MWB: MySQL workbench ER Diagram file
 2. InvoiceERD_Explanation.MD file for explanation
+
+**Please Check InvoiceERD_Explanation.MD file in order to see how I construct the database**
 
 ----
 
