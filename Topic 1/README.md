@@ -26,7 +26,7 @@ Create an entity relation diagram (ERD) model (using correct connection symbols 
 ----
 ## What is in this folder:
 1. InvoiceERD.MWB: MySQL workbench ER Diagram file
-2. ERDAnalysis.MD file for explanation
+2. InvoiceERD_Explanation.MD file for explanation
 
 ----
 
