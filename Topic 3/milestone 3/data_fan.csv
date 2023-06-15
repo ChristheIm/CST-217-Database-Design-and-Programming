@@ -1,0 +1,61 @@
+fan_id,favorite_team,fan_fname,fan_lname,fan_email,fan_phone,fan_address
+50000001,20047,Darius,Gross,integer@hotmail.couk,1-217-285-6590,"P.O. Box 726, 4087 Pede Rd."
+50000002,20028,Lester,Ball,odio.tristique@yahoo.com,(231) 515-4796,567-492 Arcu Avenue
+50000003,20042,Axel,Riley,pellentesque.eget.dictum@hotmail.org,(921) 385-5183,Ap #930-2949 Convallis Av.
+50000004,20067,Matthew,Ratliff,sapien.cursus@yahoo.org,(412) 684-4188,Ap #368-773 Sed Ave
+50000005,20047,Xenos,Compton,tincidunt.dui@hotmail.couk,(424) 721-1356,146-102 Magna. St.
+50000006,20002,Sonya,Baird,lorem.ac@aol.com,(892) 535-8638,Ap #491-9154 Id Ave
+50000007,20066,Caryn,Hancock,dui@hotmail.edu,(978) 883-1301,"340-6322 Ac, Rd."
+50000008,20075,Cole,Gill,nonummy.ultricies@outlook.ca,1-427-542-2284,"P.O. Box 685, 2871 Malesuada Avenue"
+50000009,20077,Maxwell,Burgess,ad.litora@aol.org,1-749-761-8654,Ap #394-1487 Suspendisse Street
+50000010,20017,Amena,Hardin,sem.magna@yahoo.com,(822) 492-4677,"8167 Ullamcorper, Street"
+50000011,20025,Herman,Moon,maecenas.iaculis@yahoo.edu,1-185-408-3793,120-3645 Hendrerit. Street
+50000012,20074,Shelley,Dorsey,elementum.dui.quis@icloud.edu,1-338-837-7134,"735 Tortor, St."
+50000013,20076,Adrienne,Wilkerson,duis@google.com,1-272-710-7015,4675 Mauris Street
+50000014,20065,Doris,Mccall,quis.pede@aol.com,(415) 841-2378,Ap #738-2468 Sed St.
+50000015,20055,Stacy,Rush,laoreet.ipsum@aol.couk,1-568-525-8832,317-5127 Venenatis St.
+50000016,20089,Carson,Sheppard,nisi@google.couk,(564) 365-7223,9875 Ac Street
+50000017,20063,Shelley,Lynch,tempus.lorem.fringilla@outlook.edu,1-316-908-1115,Ap #649-7436 Proin St.
+50000018,20099,Noah,Foley,elit.etiam.laoreet@protonmail.couk,(984) 576-6107,939-3365 Malesuada St.
+50000019,20027,Sarah,Mcleod,fusce.diam@hotmail.net,1-593-924-7174,Ap #406-174 A Ave
+50000020,20078,Hunter,Warner,quam.vel@aol.ca,1-829-832-6491,Ap #271-6821 Ridiculus St.
+50000021,20064,Charissa,Wade,enim.nec@yahoo.net,1-472-597-6576,723-2297 Mauris Av.
+50000022,20089,Rebecca,Finch,interdum.feugiat@hotmail.edu,1-473-362-1864,Ap #660-5260 Ut Av.
+50000023,20041,Christian,Chapman,orci.luctus.et@hotmail.ca,1-450-671-5765,Ap #849-9242 Dictum St.
+50000024,20010,Joshua,Hodges,integer.vitae.nibh@icloud.edu,(406) 774-0446,865-5660 Dui Av.
+50000025,20095,Paki,Stark,et@yahoo.ca,1-461-358-7393,8687 Mauris Rd.
+50000026,20069,Zorita,Nixon,dolor.sit@google.ca,1-620-118-9053,"P.O. Box 924, 1121 Tristique Ave"
+50000027,20057,Buckminster,Barnes,vel.lectus@protonmail.couk,1-124-906-2065,"Ap #739-6407 Aliquet, Rd."
+50000028,20013,Tanisha,Wells,proin@yahoo.edu,1-286-623-5126,"473-4388 Sed, Road"
+50000029,20046,Ivan,Velazquez,lobortis.ultrices@outlook.org,1-486-372-5453,Ap #400-8711 Libero Ave
+50000030,20081,Todd,Ochoa,amet.ante@google.edu,(880) 296-8677,544-3459 Dictum Rd.
+50000031,20084,Barbara,Lang,ipsum.suspendisse@yahoo.org,1-806-644-5027,5317 Purus. Rd.
+50000032,20061,Helen,Kramer,velit.egestas@google.com,1-657-929-3424,788-2048 Pharetra. St.
+50000033,20050,Kylee,King,egestas@google.net,(748) 962-2151,Ap #624-6454 Eros St.
+50000034,20054,Frances,Guy,donec.nibh@outlook.couk,1-736-782-2823,"P.O. Box 607, 923 Sed St."
+50000035,20054,Michael,Ray,ligula@outlook.com,(416) 996-1405,7969 Nullam St.
+50000036,20052,Wanda,Ruiz,cras.vulputate@outlook.edu,1-446-573-6679,845-1529 Nunc Ave
+50000037,20059,Channing,Buckley,integer.in.magna@aol.net,(712) 484-6120,"P.O. Box 289, 6914 Sagittis Rd."
+50000038,20006,Carl,Daniel,nisi.sem@yahoo.edu,(544) 903-3778,"Ap #536-4520 Tempor, Street"
+50000039,20095,Macon,Lowery,sed@google.edu,(486) 758-1778,1601 Ultricies St.
+50000040,20060,Haley,Mayer,curabitur@aol.edu,(337) 844-3651,336-9975 Risus St.
+50000041,20087,Hillary,Page,orci.ut@outlook.edu,1-248-311-5267,317 Velit Rd.
+50000042,20035,Clark,Page,erat.nonummy.ultricies@google.couk,(248) 214-2388,5856 Metus. St.
+50000043,20090,Carlos,Mcclure,risus.in.mi@outlook.org,1-477-372-7242,Ap #812-1089 Magna. St.
+50000044,20063,Ori,Holmes,diam@google.ca,(487) 646-4625,"P.O. Box 846, 9116 Tellus, St."
+50000045,20030,Joseph,Dickerson,consectetuer.cursus@aol.com,(975) 283-5455,Ap #218-4786 Suspendisse Avenue
+50000046,20016,Xyla,Noble,sollicitudin.commodo@yahoo.org,1-265-689-0160,Ap #278-3964 Dolor Av.
+50000047,20084,Kibo,Becker,bibendum.donec.felis@protonmail.com,(870) 206-4777,"P.O. Box 574, 2462 Magna. St."
+50000048,20051,Vernon,Pierce,orci.adipiscing@icloud.org,(512) 616-1628,140-2381 Magna. Street
+50000049,20069,Dustin,Terry,ligula.donec.luctus@icloud.edu,(327) 319-1139,Ap #800-1347 Et Ave
+50000050,20062,Joy,Cote,sollicitudin.commodo.ipsum@outlook.org,(597) 356-5281,749-8030 Consequat Road
+50000051,20075,Ryan,Hudson,purus.nullam@icloud.com,1-163-570-1525,"P.O. Box 995, 8728 Quis, Rd."
+50000052,20092,Joan,Duffy,aenean.massa.integer@protonmail.org,1-566-534-2401,4690 Interdum Avenue
+50000053,20075,Myles,Richardson,lorem.donec@google.com,(145) 718-4807,Ap #507-4733 Massa Avenue
+50000054,20078,Chanda,Vaughan,donec.nibh.quisque@protonmail.com,(452) 255-2774,429 Quisque Ave
+50000055,20092,Xander,Dodson,nulla.integer@icloud.net,1-404-226-8783,634-8007 Donec Road
+50000056,20065,Preston,Spears,natoque.penatibus@icloud.edu,(523) 705-5459,"P.O. Box 605, 921 Nonummy. Avenue"
+50000057,20014,Claudia,Velez,libero.est.congue@outlook.edu,1-563-497-2736,Ap #628-6847 Fermentum St.
+50000058,20100,Raven,Pope,feugiat.sed@hotmail.net,1-616-139-3141,4594 Sem Ave
+50000059,20023,Camille,Nash,velit.quisque@google.edu,(639) 873-7864,8350 Ornare. St.
+50000060,20045,Mikayla,Giles,duis.mi.enim@aol.ca,1-934-348-4758,216 Et St.

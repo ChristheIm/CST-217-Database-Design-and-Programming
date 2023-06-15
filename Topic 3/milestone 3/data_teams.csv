@@ -1,0 +1,101 @@
+team_id,league_id,name,stadium,location,foundation
+20001,1001,Alaves,Mendizorrotza,Vitoria-Gasteiz,1921-02-27
+20002,1001,Athletic Club,San Mames,Bilbao,1898-09-06
+20003,1001,Atletico Madrid,Wanda Metropolitano,Madrid,1903-11-24
+20004,1001,Barcelona,Camp Nou,Barcelona,1899-05-22
+20005,1001,Betis,Benito Villamarin,Seville,1907-01-20
+20006,1001,Cadiz,Ramon de Carranza,Cadiz,1910-06-29
+20007,1001,Celta Vigo,Abanca-Balaidos,Vigo,1923-05-20
+20008,1001,Elche,Martinez Valero,Elche,1923-02-22
+20009,1001,Espanyol,RCDE Stadium,Barcelona,1900-05-02
+20010,1001,Getafe,Coliseum Alfonso Perez,Getafe,1946-10-28
+20011,1001,Granada,Nuevo Los Carmenes,Granada,1931-05-14
+20012,1001,Levante,Ciutat de Valencia,Valencia,1909-09-16
+20013,1001,Mallorca,Iberostar Estadi,Palma,1916-05-15
+20014,1001,Osasuna,El Sadar,Pamplona,1920-11-09
+20015,1001,Rayo Vallecano,Vallecas,Madrid,1924-06-08
+20016,1001,Real Madrid,Santiago Bernabeu,Madrid,1902-08-07
+20017,1001,Real Sociedad,Anoeta,San Sebastian,1909-06-25
+20018,1001,Sevilla,Ramon Sanchez Pizjuan,Seville,1890-08-23
+20019,1001,Valencia,Mestalla,Valencia,1919-07-09
+20020,1001,Villarreal,Estadio de la Ceramica,Villarreal,1923-12-06
+20021,1002,Arsenal,Emirates Stadium,London,1886-05-26
+20022,1002,Aston Villa,Villa Park,Birmingham,1874-09-25
+20023,1002,Brentford,Brentford Community Stadium,London,1889-11-22
+20024,1002,Brighton & Hove Albion,Amex Stadium,Brighton,1901-10-09
+20025,1002,Burnley,Turf Moor,Burnley,1882-11-25
+20026,1002,Chelsea,Stamford Bridge,London,1905-09-11
+20027,1002,Crystal Palace,Selhurst Park,London,1905-01-26
+20028,1002,Everton,Goodison Park,Liverpool,1878-03-07
+20029,1002,Leeds United,Elland Road,Leeds,1919-09-15
+20030,1002,Leicester City,King Power Stadium,Leicester,1884-12-22
+20031,1002,Liverpool,Anfield,Liverpool,1892-03-13
+20032,1002,Manchester City,Etihad Stadium,Manchester,1880-04-05
+20033,1002,Manchester United,Old Trafford,Manchester,1878-12-27
+20034,1002,Newcastle United,St James' Park,Newcastle upon Tyne,1892-12-06
+20035,1002,Norwich City,Carrow Road,Norwich,1902-09-14
+20036,1002,Southampton,St Mary's Stadium,Southampton,1885-10-06
+20037,1002,Tottenham Hotspur,Tottenham Hotspur Stadium,London,1882-08-09
+20038,1002,Watford,Vicarage Road,Watford,1881-07-11
+20039,1002,West Ham United,London Stadium,London,1895-08-01
+20040,1002,Wolverhampton Wanderers,Molineux Stadium,Wolverhampton,1877-05-11
+20041,1003,Atalanta,Gewiss Stadium,Bergamo,1907-07-19
+20042,1003,Bologna,Renato Dall'Ara Stadium,Bologna,1909-04-29
+20043,1003,Cagliari,Sardegna Arena,Cagliari,1920-06-12
+20044,1003,Empoli,Carlo Castellani Stadium,Empoli,1920-06-30
+20045,1003,Fiorentina,Artemio Franchi Stadium,Florence,1926-07-20
+20046,1003,Genoa,Luigi Ferraris Stadium,Genoa,1893-09-29
+20047,1003,Hellas Verona,Marc'Antonio Bentegodi Stadium,Verona,1903-05-03
+20048,1003,Inter Milan,San Siro Stadium,Milan,1908-03-14
+20049,1003,Juventus,Allianz Stadium,Turin,1897-06-16
+20050,1003,Lazio,Stadio Olimpico,Rome,1900-03-05
+20051,1003,Milan,San Siro Stadium,Milan,1899-05-01
+20052,1003,Napoli,Diego Armando Maradona Stadium,Naples,1926-08-07
+20053,1003,Roma,Stadio Olimpico,Rome,1927-09-26
+20054,1003,Salernitana,Stadio Arechi,Salerno,1919-02-22
+20055,1003,Sampdoria,Luigi Ferraris Stadium,Genoa,1946-02-09
+20056,1003,Sassuolo,Mapei Stadium - Citta del Tricolore,Reggio Emilia,1922-09-10
+20057,1003,Spezia,Alberto Picco Stadium,La Spezia,1906-03-11
+20058,1003,Torino,Olimpico Grande Torino Stadium,Turin,1906-11-26
+20059,1003,Udinese,Dacia Arena,Udine,1896-03-23
+20060,1003,Venezia,Pierluigi Penzo Stadium,Venice,1907-10-18
+20061,1004,Arminia Bielefeld,SchucoArena,Bielefeld,1905-11-18
+20062,1004,Augsburg,WWK Arena,Augsburg,1907-09-14
+20063,1004,Bayer Leverkusen,BayArena,Leverkusen,1904-07-31
+20064,1004,Bayern Munich,Allianz Arena,Munich,1900-10-21
+20065,1004,Bochum,Vonovia Ruhrstadion,Bochum,1848-08-01
+20066,1004,Borussia Dortmund,Signal Iduna Park,Dortmund,1909-12-13
+20067,1004,Borussia Monchengladbach,Borussia-Park,Monchengladbach,1900-04-01
+20068,1004,Eintracht Frankfurt,Deutsche Bank Park,Frankfurt,1899-09-14
+20069,1004,Freiburg,Schwarzwald-Stadion,Freiburg,1904-04-11
+20070,1004,Greuther Furth,Sportpark Ronhof Thomas Sommer,Furth,1903-06-26
+20071,1004,Hertha Berlin,Olympiastadion Berlin,Berlin,1892-08-08
+20072,1004,Hoffenheim,PreZero Arena,Sinsheim,1899-01-17
+20073,1004,Koln (Cologne),RheinEnergieStadion,Cologne,1948-05-27
+20074,1004,Leipzig,Red Bull Arena,Leipzig,2009-04-23
+20075,1004,Mainz 05,Opel Arena,Mainz,1905-07-09
+20076,1004,Paderborn,Benteler-Arena,Paderborn,1907-06-21
+20077,1004,Schalke 04,Veltins-Arena,Gelsenkirchen,1904-05-06
+20078,1004,Stuttgart,Mercedes-Benz Arena,Stuttgart,1893-12-26
+20079,1004,Union Berlin,Stadion An der Alten Forsterei,Berlin,1906-09-11
+20080,1004,Wolfsburg,Volkswagen Arena,Wolfsburg,1945-07-20
+20081,1005,Accrington Stanley,Wham Stadium,Accrington,1968-11-25
+20082,1005,AFC Wimbledon,Plough Lane,London,2002-12-08
+20083,1005,Bolton Wanderers,University of Bolton Stadium,Bolton,1874-12-02
+20084,1005,Burton Albion,Pirelli Stadium,Burton upon Trent,1950-05-25
+20085,1005,Cambridge United,Abbey Stadium,Cambridge,1912-08-02
+20086,1005,Charlton Athletic,The Valley,London,1905-09-20
+20087,1005,Cheltenham Town,Jonny-Rocks Stadium,Cheltenham,1887-06-08
+20088,1005,Crewe Alexandra,Alexandra Stadium,Crewe,1877-04-09
+20089,1005,Doncaster Rovers,Keepmoat Stadium,Doncaster,1879-11-03
+20090,1005,Fleetwood Town,Highbury Stadium,Fleetwood,1997-10-17
+20091,1005,Gillingham,Priestfield Stadium,Gillingham,1893-03-23
+20092,1005,Ipswich Town,Portman Road,Ipswich,1878-06-03
+20093,1005,Lincoln City,LNER Stadium,Lincoln,1884-10-02
+20094,1005,MK Dons,Stadium MK,Milton Keynes,2004-11-13
+20095,1005,Morecambe,Mazuma Stadium,Morecambe,1920-02-12
+20096,1005,Oxford United,Kassam Stadium,Oxford,1893-09-15
+20097,1005,Plymouth Argyle,Home Park,Plymouth,1886-02-07
+20098,1005,Portsmouth,Fratton Park,Portsmouth,1898-02-09
+20099,1005,Rotherham United,AESSEAL New York Stadium,Rotherham,1925-06-14
+20100,1005,Sheffield Wednesday,Hillsborough Stadium,Sheffield,1867-12-14
