@@ -1,0 +1,59 @@
+book_id,book_title,genre,publisher,ISBN,cost,year
+B0001,Ballinby Boys,Young Adult,Cedar House Publishers,989-28-79-70597-8,27.99,1955
+B0002,Nothing But Capers,Mystery,Sound & Seas Co.,989-28-654-6930-3,30.99,1941
+B0003,Alanna Saves the Day,Fiction,Palimpsest Printing,989-28-79-52883-6,27.99,1984
+B0004,Post Alley,Young Adult,Etaoin Shrdlu Press,989-28-79-43574-5,23.99,1980
+B0005,Thatchwork Cottage,Childrens,Chris & Co,989-28-654-5794-2,26.99,1921
+B0006,Zero over Twelve,Fiction,Kyung's Dynasty,989-28-79-44730-4,8.99,1944
+B0007,Portmeirion,SciFi/Fantasy,Cedar House Publishers,989-28-654-5771-3,15.99,1976
+B0008,Rystwyth,Childrens,Sound & Seas Co.,989-28-79-04510-4,8.99,1924
+B0009,The Mallemaroking,Poetry,Palimpsest Printing,989-28-79-18127-7,27.99,1914
+B0010,Can I Be Honest?,Poetry,Etaoin Shrdlu Press,989-28-79-68089-3,21.5,1989
+B0011,No More Lightning,Childrens,Chris & Co,989-28-79-22871-2,8.99,1934
+B0012,9803 North Millworks Road,Romance,Kyung's Dynasty,989-28-79-01991-4,12.5,1915
+B0013,The Winchcombe Railway Museum Heist,Young Adult,Cedar House Publishers,989-28-654-0047-4,15.99,1927
+B0014,(im)Mortality,SciFi/Fantasy,Sound & Seas Co.,989-28-79-67891-3,27.99,1984
+B0015,the life and times of an utterly inconsequential person,SciFi/Fantasy,Palimpsest Printing,989-28-654-2620-7,32.99,1936
+B0016,Land Water Sky Space,Fiction,Etaoin Shrdlu Press,989-28-3705-054-6,7.99,1938
+B0017,And I Said Yes,Nonfiction,Chris & Co,989-28-79-45675-7,12.5,1953
+B0018,Interrobangs for All,SciFi/Fantasy,Kyung's Dynasty,989-28-79-82749-6,22.99,1934
+B0019,Kalakalal Avenue,Nonfiction,Cedar House Publishers,989-28-79-30536-9,8.99,1911
+B0020,Banana Slug and the Glass Half Full,Childrens,Sound & Seas Co.,989-28-229-1404-4,9.5,1957
+B0021,"Not to Gossip, But",Memoir,Palimpsest Printing,989-28-229-7592-2,9.5,1948
+B0022,The Thing Is,Fiction,Etaoin Shrdlu Press,989-28-3705-222-9,11.99,1977
+B0023,Concerning Prophecy,Young Adult,Chris & Co,989-28-79-69807-2,8.99,1948
+B0024,Banana Slug and the Lost Cow,Fiction,Kyung's Dynasty,989-28-79-42728-3,27.99,1979
+B0025,Banana Slug and Xyr Friends,Romance,Cedar House Publishers,989-28-654-7965-4,29.99,1967
+B0026,Cimornul,Nonfiction,Sound & Seas Co.,989-28-79-87459-9,23.99,1966
+B0027,Quiddity and Quoddity,Romance,Palimpsest Printing,989-28-229-6632-6,9.5,1928
+B0028,The Startling End of Mr. Hidhoo,Nonfiction,Etaoin Shrdlu Press,989-28-79-32105-5,8.99,1960
+B0029,Say it with Snap!,Fiction,Chris & Co,989-28-79-71565-6,21.5,1937
+B0030,The Elephant House,Fiction,Kyung's Dynasty,989-28-79-43841-8,18.5,1945
+B0031,A Horrible Human with the Habits of a Monster,Nonfiction,Cedar House Publishers,989-28-79-61125-5,12.5,1911
+B0032,Turn Left Til You Get There,SciFi/Fantasy,Sound & Seas Co.,989-28-654-0127-3,16.99,1922
+B0033,Dust on the Rim,Fiction,Palimpsest Printing,989-28-654-9826-6,28.99,1962
+B0034,Tales of the Compass,Young Adult,Etaoin Shrdlu Press,989-28-654-8573-0,23.99,1943
+B0035,Burnished Silver,SciFi/Fantasy,Chris & Co,989-28-79-82125-8,22.99,1969
+B0036,Did You Hear?,Poetry,Kyung's Dynasty,989-28-79-14379-4,11.99,1946
+B0037,Lace and Brandy,Nonfiction,Cedar House Publishers,989-28-654-6033-1,15.99,1941
+B0038,Muddy Waters,SciFi/Fantasy,Sound & Seas Co.,989-28-229-0197-6,9.5,1953
+B0039,Saint Esme,SciFi/Fantasy,Palimpsest Printing,989-28-654-4370-9,15.99,1926
+B0040,The Scent of Oranges,Fiction,Etaoin Shrdlu Press,989-28-79-13801-1,8.99,1941
+B0041,The Seawitch Sings,SciFi/Fantasy,Chris & Co,989-28-3705-633-3,19.99,1960
+B0042,Whither Thou Goest,Fiction,Kyung's Dynasty,989-28-3705-987-7,8.99,1940
+B0043,Some Eggs or Something?,Nonfiction,Cedar House Publishers,989-28-79-13871-4,8.99,1987
+B0044,Hashtag QuokkaSelfie,Fiction,Sound & Seas Co.,989-28-79-05638-4,27.99,1959
+B0045,It's Never Just a Glass,SciFi/Fantasy,Palimpsest Printing,989-28-79-91028-0,12.5,1948
+B0046,Banana Slug and the Mossy Rock,Romance,Etaoin Shrdlu Press,989-28-3705-966-2,10.99,1965
+B0047,Heliotrope Pajamas,Poetry,Chris & Co,989-28-3705-607-4,11.99,1925
+B0048,Inconvenient Confessions: a memoir,Young Adult,Kyung's Dynasty,989-28-229-5891-8,9.5,1913
+B0049,Who Did You Think You Were Kidding?,Fiction,Cedar House Publishers,989-28-3705-592-3,6.99,1957
+B0050,Natural Pamplemousse,Fiction,Sound & Seas Co.,989-28-79-82197-5,12.5,1987
+B0051,We're Sisters and We Kinda Like Each Other,SciFi/Fantasy,Palimpsest Printing,989-28-79-22562-9,20.99,1962
+B0052,Don't Check your Ego,Mystery,Etaoin Shrdlu Press,989-28-79-40897-8,21.5,1954
+B0053,"Soft, Pliable Truth",Fiction,Chris & Co,989-28-79-23015-9,18.5,1943
+B0054,She Also Tottered,Memoir,Kyung's Dynasty,989-28-3705-152-9,7.99,1917
+B0055,The Spark and The Ashes,Romance,Cedar House Publishers,989-28-3705-583-1,6.99,1979
+B0056,The Triscanipt,Memoir,Sound & Seas Co.,989-28-79-07610-8,27.99,1945
+B0057,Adventures of Kaya,Mystery,Palimpsest Printing,989-28-3705-649-4,6.99,1941
+B0058,The Deep Grey,Fiction,Etaoin Shrdlu Press,989-28-79-51397-9,21.5,1982

@@ -1,0 +1,8 @@
+FRD must have an array of value (identify some of the query within the array)
+embed an object of another entity(?)
+
+Each user needs to identify embeded object 
+
+Requirement Restrictions : query within the array, query within the links, query within the object embeded
+
+4 collection minimum

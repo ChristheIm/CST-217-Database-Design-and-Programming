@@ -1,0 +1,3 @@
+_id,title,author,publisher,ISBN,price,quantity,genre
+,Ballinby Boys,"[{first_name: ""Chris"", last_name: ""Im""}]","{publisher_name: ""Cedar House Publishers""}",989-28-79-70597-8,27.99,5,"[""action"",""Sci-Fi""]"
+,Nothing But Capers,"[{first_name: ""Aaron"", last_name: ""Im""}]","{publisher_name: ""Sound & Seas Co.""}",989-28-654-6930-3,30.99,10,"[""mystery"", ""action""]"
