@@ -1,0 +1,187 @@
+[
+  {    "books": [
+      {
+        "_id": {
+          "$oid": "642d2564c59828083ad22bb4"
+        }
+    },
+    {
+      "_id": {
+        "$oid": "642d2564c59828083ad22bb5"
+      }
+    }
+],
+    "total_price": 25.99,
+    "customer_id": "642d33d2c59828083ad22c18",
+    "shipping_address": "123 Main St, Anytown, USA",
+    "order_date": "04-05-2023"
+  },
+  {
+    "books": [
+      {
+        "_id": {
+          "$oid": "642d2564c59828083ad22bb4"
+        }
+      }
+    ],
+    "total_price": 10.99,
+    "customer_id": "642d33d2c59828083ad22c17",
+    "shipping_address": "456 Oak Ave, Somecity, USA",
+    "order_date": "04-04-2023"
+  },
+  {
+    "books": [
+      {
+        "_id": {
+          "$oid": "642d2564c59828083ad22bb7"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "642d2564c59828083ad22bb9"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "642d2564c59828083ad22bbb"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "642d2564c59828083ad22bbc"
+        }
+      }
+    ],
+    "total_price": 45.99,
+    "customer_id": "642d33d2c59828083ad22c2e",
+    "shipping_address": "789 Maple Dr, Othercity, USA",
+    "order_date": "04-03-2023"
+  },
+  {
+    "books": [
+      {
+        "_id": {
+          "$oid": "642d2564c59828083ad22bbe"
+        }
+      }
+    ],
+    "total_price": 15.99,
+    "customer_id": "642d33d2c59828083ad22c2c",
+    "shipping_address": "111 Pine St, Anothercity, USA",
+    "order_date": "04-02-2023"
+  },
+  {
+    "books": [
+      {
+        "_id": {
+          "$oid": "642d2564c59828083ad22bbf"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "642d2564c59828083ad22bb2"
+        }
+      }
+    ],
+    "total_price": 35.99,
+    "customer_id": "642d33d2c59828083ad22c2a",
+    "shipping_address": "222 Elm St, Morecity, USA",
+    "order_date": "04-01-2023"
+  },
+  {
+    "books": [
+      {
+        "_id": {
+          "$oid": "642d2564c59828083ad22bb3"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "642d2564c59828083ad22bb4"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "642d2564c59828083ad22bb6"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "642d2564c59828083ad22bbd"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "642d2564c59828083ad22bbc"
+        }
+      }
+
+    ],
+    "total_price": 50.99,
+    "customer_id": "642d33d2c59828083ad22c28",
+    "shipping_address": "333 Oak St, Manytown, USA",
+    "order_date": "03-31-2023"
+  },
+  {
+    "books": [
+      {
+        "_id": {
+          "$oid": "642d2564c59828083ad22bbb"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "642d2564c59828083ad22bb9"
+        }
+      }
+    ],
+    "total_price": 22.99,
+    "customer_id": "642d33d2c59828083ad22c22",
+    "shipping_address": "444 Maple Ave, Somewhere, USA",
+    "order_date": "03-30-2023"
+  },
+  {
+    "books": [
+      {
+        "_id": {
+          "$oid": "642d2564c59828083ad22bb5"
+        }
+      }
+    ],
+    "total_price": 12.99,
+    "customer_id": "642d33d2c59828083ad22c1e",
+    "shipping_address": "555 Pine Ave, Anywhere, USA",
+    "order_date": "03-29-2023"
+  },
+  {
+    "books": [
+      {
+        "_id": {
+          "$oid": "642d2564c59828083ad22bb2"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "642d2564c59828083ad22bbd"
+        }
+      }
+    ],
+    "total_price": 30.99,
+    "customer_id": "642d33d2c59828083ad22c1c",
+    "shipping_address": "666 Elm Ave, Nowhere, USA",
+    "order_date": "03-28-2023"
+  },
+  {
+    "books": [
+      {
+        "_id": {
+          "$oid": "642d2564c59828083ad22bc0"
+        }
+      }
+    ],
+    "total_price": 18.99,
+    "customer_id": "642d33d2c59828083ad22c18",
+    "shipping_address": "777 Oak Dr, Everywhere, USA",
+    "order_date": "03-27-2023"
+  }
+]

@@ -1,0 +1,180 @@
+[
+    {
+    "_id": {
+      "$oid": "642d2bc7c59828083ad22bc7"
+    },
+    "publisher_name": "HarperCollins",
+    "location": "New York, NY",
+    "published_books": [
+      {
+        "_id": {
+          "$oid": "642d2564c59828083ad22bb3"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "642d2564c59828083ad22bb4"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "642d2564c59828083ad22bbc"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "642d2564c59828083ad22bc0"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "642d2564c59828083ad22bc3"
+        }
+      }
+    ],
+    "website": "https://www.harpercollins.com/"
+  },{
+    "_id": {
+      "$oid": "642d2bc7c59828083ad22bc8"
+    },
+    "publisher_name": "Penguin Books",
+    "location": "London, UK",
+    "published_books": [
+      {
+        "_id": {
+          "$oid": "642d2564c59828083ad22bb5"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "642d2564c59828083ad22bb9"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "642d2564c59828083ad22bbe"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "642d2564c59828083ad22bbf"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "642d2564c59828083ad22bc1"
+        }
+      }
+    ],
+    "website": "https://www.penguin.co.uk/"
+  },{
+    "_id": {
+      "$oid": "642d2bc7c59828083ad22bc9"
+    },
+    "publisher_name": "Random House",
+    "location": "New York, NY",
+    "published_books": [],
+    "website": "https://www.randomhousebooks.com/"
+  },{
+    "_id": {
+      "$oid": "642d2bc7c59828083ad22bca"
+    },
+    "publisher_name": "Simon & Schuster",
+    "location": "New York, NY",
+    "published_books": [
+      {
+        "_id": {
+          "$oid": "642d2564c59828083ad22bb7"
+        }
+      }
+    ],
+    "website": "https://www.simonandschuster.com/"
+  },{
+    "_id": {
+      "$oid": "642d2bc7c59828083ad22bcb"
+    },
+    "publisher_name": "Vintage International",
+    "location": "New York, NY",
+    "published_books": [
+      {
+        "_id": {
+          "$oid": "642d2564c59828083ad22bbb"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "642d2564c59828083ad22bc2"
+        }
+      }
+    ],
+    "website": "https://www.hachettebookgroup.com/"
+  },{
+    "_id": {
+      "$oid": "642d2bc7c59828083ad22bcc"
+    },
+    "publisher_name": "Macmillan Publishers",
+    "location": "London, UK",
+    "published_books": [],
+    "website": "https://www.macmillan.com/"
+  },{
+    "_id": {
+      "$oid": "642d2bc7c59828083ad22bcd"
+    },
+    "publisher_name": "Oxford University Press",
+    "location": "Oxford, UK",
+    "published_books": [
+      {
+        "_id": {
+          "$oid": "642d2564c59828083ad22bba"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "642d2564c59828083ad22bc4"
+        }
+      }
+    ],
+    "website": "https://global.oup.com/"
+  },{
+    "_id": {
+      "$oid": "642d2bc7c59828083ad22bce"
+    },
+    "publisher_name": "Cambridge University Press",
+    "location": "Cambridge, UK",
+    "published_books": [],
+    "website": "https://www.cambridge.org/"
+  },{
+    "_id": {
+      "$oid": "642d2bc7c59828083ad22bcf"
+    },
+    "publisher_name": "Bloomsbury Publishing",
+    "location": "London, UK",
+    "published_books": [
+      {
+        "_id": {
+          "$oid": "642d2564c59828083ad22bb2"
+        }
+      }
+    ],
+    "website": "https://www.bloomsbury.com/"
+  },{
+    "_id": {
+      "$oid": "642d2bc7c59828083ad22bd0"
+    },
+    "publisher_name": "Knopf Doubleday Publishing Group",
+    "location": "New York, NY",
+    "published_books": [
+      {
+        "_id": {
+          "$oid": "642d2564c59828083ad22bb6"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "642d2564c59828083ad22bb8"
+        }
+      }
+    ],
+    "website": "https://www.penguinrandomhouse.com/imprints/knopf-doubleday/"
+  }
+]

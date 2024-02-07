@@ -1,0 +1,183 @@
+[{
+    "_id": {
+      "$oid": "642cdd5fc59828083ad22ba8"
+    },
+    "author_fname": "J.K.",
+    "author_lname": "Rowling",
+    "biography": "Joanne Rowling, known as J.K. Rowling, is a British author and philanthropist. She is best known for writing the Harry Potter fantasy series, which has won multiple awards and sold more than 500 million copies, becoming the best-selling book series in history.",
+    "dob": "1965-07-31",
+    "books_written": [
+      {
+        "_id": {
+          "$oid": "642d2564c59828083ad22bb2"
+        }
+      }
+    ]
+  },{
+    "_id": {
+      "$oid": "642cdd5fc59828083ad22ba9"
+    },
+    "author_fname": "Harper",
+    "author_lname": "Lee",
+    "biography": "Harper Lee was an American novelist widely known for To Kill a Mockingbird, published in 1960. It was immediately successful, winning the Pulitzer Prize, and has become a classic of modern American literature.",
+    "dob": "1926-04-28",
+    "books_written": [
+      {
+        "_id": {
+          "$oid": "642d2564c59828083ad22bb3"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "642d2564c59828083ad22bc3"
+        }
+      }
+    ]
+  },{
+    "_id": {
+      "$oid": "642cdd5fc59828083ad22baa"
+    },
+    "author_fname": "Agatha",
+    "author_lname": "Christie",
+    "biography": "Agatha Christie was an English writer known for her detective novels and short story collections, particularly those featuring fictional detectives Hercule Poirot and Miss Marple.",
+    "dob": "1890-09-15",
+    "books_written": [
+      {
+        "_id": {
+          "$oid": "642d2564c59828083ad22bb4"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "642d2564c59828083ad22bc0"
+        }
+      }
+    ]
+  },{
+    "_id": {
+      "$oid": "642cdd5fc59828083ad22bab"
+    },
+    "author_fname": "Gabriel",
+    "author_lname": "García Márquez",
+    "biography": "Gabriel García Márquez was a Colombian novelist, short-story writer, screenwriter, and journalist. He is considered one of the most significant authors of the 20th century, particularly in the Spanish language.",
+    "dob": "1927-03-06",
+    "books_written": [
+      {
+        "_id": {
+          "$oid": "642d2564c59828083ad22bb5"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "642d2564c59828083ad22bbc"
+        }
+      }
+    ]
+  },{
+    "_id": {
+      "$oid": "642cdd5fc59828083ad22bac"
+    },
+    "author_fname": "Toni",
+    "author_lname": "Morrison",
+    "biography": "Toni Morrison was an American novelist, essayist, book editor, and college professor. Her novels are known for their epic themes, vivid dialogue, and richly detailed African American characters.",
+    "dob": "1931-02-18",
+    "books_written": [
+      {}
+    ]
+  },{
+    "_id": {
+      "$oid": "642cdd5fc59828083ad22bad"
+    },
+    "author_fname": "Ernest",
+    "author_lname": "Hemingway",
+    "biography": "Ernest Hemingway was an American journalist, novelist, short-story writer, and sportsman. His economical and understated style had a strong influence on 20th-century fiction, while his life of adventure and his public image influenced later generations.",
+    "dob": "1899-07-21",
+    "books_written": [
+      {
+        "_id": {
+          "$oid": "642d2564c59828083ad22bb7"
+        }
+      }
+    ]
+  },{
+    "_id": {
+      "$oid": "642cdd5fc59828083ad22bae"
+    },
+    "author_fname": "Chimamanda Ngozi",
+    "author_lname": "Adichie",
+    "biography": "Chimamanda Ngozi Adichie is a Nigerian novelist, writer of short stories, and nonfiction. She has written the novels Purple Hibiscus, Half of a Yellow Sun, Americanah, and others.",
+    "dob": "1977-09-15",
+    "books_written": [
+      {
+        "_id": {
+          "$oid": "642d2564c59828083ad22bb8"
+        }
+      }
+    ]
+  },{
+    "_id": {
+      "$oid": "642cdd5fc59828083ad22baf"
+    },
+    "author_fname": "Leo",
+    "author_lname": "Tolstoy",
+    "biography": "Leo Tolstoy was a Russian writer who is regarded as one of the greatest authors of all time. He is best known for War and Peace and Anna Karenina, which are often cited as among the pinnacles of realist fiction.",
+    "dob": "1828-09-09",
+    "books_written": [
+      {
+        "_id": {
+          "$oid": "642d2564c59828083ad22bb9"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "642d2564c59828083ad22bbe"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "642d2564c59828083ad22bc4"
+        }
+      }
+    ]
+  },{
+    "_id": {
+      "$oid": "642cdd5fc59828083ad22bb0"
+    },
+    "author_fname": "Virginia",
+    "author_lname": "Woolf",
+    "biography": "Virginia Woolf was an English writer, considered one of the most important modernist 20th-century authors and a pioneer in the use of stream of consciousness as a narrative device.",
+    "dob": "1882-01-25",
+    "books_written": [
+      {
+        "_id": {
+          "$oid": "642d2564c59828083ad22bba"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "642d2564c59828083ad22bbd"
+        }
+      }
+    ]
+  },{
+    "_id": {
+      "$oid": "642cdd5fc59828083ad22bb1"
+    },
+    "author_fname": "Albert",
+    "author_lname": "Camus",
+    "biography": "Albert Camus was a French philosopher, author, and journalist. He is known for his works such as The Stranger, The Plague, and The Myth of Sisyphus, which are considered existentialist classics.",
+    "dob": "1913-11-07",
+    "books_written": [
+      {
+        "_id": {
+          "$oid": "642d2564c59828083ad22bc2"
+        }
+      },
+      {
+        "_id": {
+          "$oid": "642d2564c59828083ad22bbb"
+        }
+      }
+    ]
+  }
+]

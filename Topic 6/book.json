@@ -1,0 +1,439 @@
+[{
+    "_id": {
+      "$oid": "642d2564c59828083ad22bb2"
+    },
+    "title": "Harry Potter and the Philosopher's Stone",
+    "author": [
+      {
+        "first_name": "J.K.",
+        "last_name": "Rowling"
+      }
+    ],
+    "publisher": [
+      {
+        "publisher_name": "Bloomsbury Publishing"
+      }
+    ],
+    "ISBN": "9780747532743",
+    "price": 15.99,
+    "quantity": 100,
+    "genre": [
+      "Fantasy",
+      "Young Adult"
+    ]
+  },{
+    "_id": {
+      "$oid": "642d2564c59828083ad22bb3"
+    },
+    "title": "Go Set A Watchman",
+    "author": [
+      {
+        "first_name": "Harper",
+        "last_name": "Lee"
+      }
+    ],
+    "publisher": [
+      {
+        "publisher_name": "HarperCollins"
+      }
+    ],
+    "ISBN": "9780060935467",
+    "price": 12.99,
+    "quantity": 50,
+    "genre": [
+      "Fiction",
+      "Classic"
+    ]
+  },{
+    "_id": {
+      "$oid": "642d2564c59828083ad22bb4"
+    },
+    "title": "Murder on the Orient Express",
+    "author": [
+      {
+        "first_name": "Agatha",
+        "last_name": "Christie"
+      }
+    ],
+    "publisher": [
+      {
+        "publisher_name": "HarperCollins"
+      }
+    ],
+    "ISBN": "9780008226664",
+    "price": 10.99,
+    "quantity": 75,
+    "genre": [
+      "Mystery",
+      "Crime"
+    ]
+  },{
+    "_id": {
+      "$oid": "642d2564c59828083ad22bb5"
+    },
+    "title": "One Hundred Years of Solitude",
+    "author": [
+      {
+        "first_name": "Gabriel García",
+        "last_name": "Márquez"
+      }
+    ],
+    "publisher": [
+      {
+        "publisher_name": "Penguin Books"
+      }
+    ],
+    "ISBN": "9780140157512",
+    "price": 14.99,
+    "quantity": 60,
+    "genre": [
+      "Magical Realism",
+      "Fiction"
+    ]
+  },{
+    "_id": {
+      "$oid": "642d2564c59828083ad22bb6"
+    },
+    "title": "Beloved",
+    "author": [
+      {
+        "first_name": "Toni",
+        "last_name": "Morrison"
+      }
+    ],
+    "publisher": [
+      {
+        "publisher_name": "Knopf Doubleday Publishing Group"
+      }
+    ],
+    "ISBN": "9781400033416",
+    "price": 11.99,
+    "quantity": 90,
+    "genre": [
+      "Fiction",
+      "Historical"
+    ]
+  },{
+    "_id": {
+      "$oid": "642d2564c59828083ad22bb7"
+    },
+    "title": "The Old Man and the Sea",
+    "author": [
+      {
+        "first_name": "Ernest",
+        "last_name": "Hemingway"
+      }
+    ],
+    "publisher": [
+      {
+        "publisher_name": "Simon & Schuster"
+      }
+    ],
+    "ISBN": "9780684801223",
+    "price": 15.99,
+    "quantity": 50,
+    "genre": [
+      "Fiction",
+      "Classic"
+    ]
+  },{
+    "_id": {
+      "$oid": "642d2564c59828083ad22bb8"
+    },
+    "title": "Half of a Yellow Sun",
+    "author": [
+      {
+        "first_name": "Chimamanda Ngozi",
+        "last_name": "Adichie"
+      }
+    ],
+    "publisher": [
+      {
+        "publisher_name": "Knopf Doubleday Publishing Group"
+      }
+    ],
+    "ISBN": "9781400095209",
+    "price": 12.99,
+    "quantity": 35,
+    "genre": [
+      "Fiction",
+      "Historical"
+    ]
+  },{
+    "_id": {
+      "$oid": "642d2564c59828083ad22bb9"
+    },
+    "title": "War and Peace",
+    "author": [
+      {
+        "first_name": "Leo",
+        "last_name": "Tolstoy"
+      }
+    ],
+    "publisher": [
+      {
+        "publisher_name": "Penguin Books"
+      }
+    ],
+    "ISBN": "9780143039990",
+    "price": 22,
+    "quantity": 20,
+    "genre": [
+      "Fiction",
+      "Classic"
+    ]
+  },{
+    "_id": {
+      "$oid": "642d2564c59828083ad22bba"
+    },
+    "title": "To the Lighthouse",
+    "author": [
+      {
+        "first_name": "Virginia",
+        "last_name": "Woolf"
+      }
+    ],
+    "publisher": [
+      {
+        "publisher_name": "Oxford University Press"
+      }
+    ],
+    "ISBN": "9780199536570",
+    "price": 10.99,
+    "quantity": 25,
+    "genre": [
+      "Fiction",
+      "Modernist"
+    ]
+  },{
+    "_id": {
+      "$oid": "642d2564c59828083ad22bbb"
+    },
+    "title": "The Plague",
+    "author": [
+      {
+        "first_name": "Albert",
+        "last_name": "Camus"
+      }
+    ],
+    "publisher": [
+      {
+        "publisher_name": "Vintage International"
+      }
+    ],
+    "ISBN": "978-0679720201",
+    "price": 10.99,
+    "quantity": 15,
+    "genre": [
+      "Fiction",
+      "Philosophical Fiction"
+    ]
+  },{
+    "_id": {
+      "$oid": "642d2564c59828083ad22bbc"
+    },
+    "title": "Leaf Storm",
+    "author": [
+      {
+        "first_name": "Gabriel",
+        "last_name": "García Márquez"
+      }
+    ],
+    "publisher": [
+      {
+        "publisher_name": "HarperCollins"
+      }
+    ],
+    "ISBN": "978-0060883287",
+    "price": 16.99,
+    "quantity": 25,
+    "genre": [
+      "Fiction",
+      "Magical Realism"
+    ]
+  },{
+    "_id": {
+      "$oid": "642d2564c59828083ad22bbd"
+    },
+    "title": "The Waves",
+    "author": [
+      {
+        "first_name": "Virginia",
+        "last_name": "Woolf"
+      }
+    ],
+    "publisher": [
+      {
+        "publisher_name": "Cambridge University Press"
+      }
+    ],
+    "ISBN": "978-0156907392",
+    "price": 14.99,
+    "quantity": 18,
+    "genre": [
+      "Fiction",
+      "Modernist Literature"
+    ]
+  },{
+    "_id": {
+      "$oid": "642d2564c59828083ad22bbe"
+    },
+    "title": "Anna Karenina",
+    "author": [
+      {
+        "first_name": "Leo",
+        "last_name": "Tolstoy"
+      }
+    ],
+    "publisher": [
+      {
+        "publisher_name": "Penguin Books"
+      }
+    ],
+    "ISBN": "978-0143035008",
+    "price": 18.99,
+    "quantity": 22,
+    "genre": [
+      "Fiction",
+      "Realist Literature"
+    ]
+  },{
+    "_id": {
+      "$oid": "642d2564c59828083ad22bbf"
+    },
+    "title": "Things Fall Apart",
+    "author": [
+      {
+        "first_name": "Chinua",
+        "last_name": "Achebe"
+      }
+    ],
+    "publisher": [
+      {
+        "publisher_name": "Penguin Books"
+      }
+    ],
+    "ISBN": "978-0141186887",
+    "price": 9.99,
+    "quantity": 30,
+    "genre": [
+      "Fiction",
+      "Historical Fiction"
+    ]
+  },{
+    "_id": {
+      "$oid": "642d2564c59828083ad22bc0"
+    },
+    "title": "Death on the Nile",
+    "author": [
+      {
+        "first_name": "Agatha",
+        "last_name": "Christie"
+      }
+    ],
+    "publisher": [
+      {
+        "publisher_name": "HarperCollins"
+      }
+    ],
+    "ISBN": "978-0062073556",
+    "price": 11.99,
+    "quantity": 16,
+    "genre": [
+      "Fiction",
+      "Mystery"
+    ]
+  },{
+    "_id": {
+      "$oid": "642d2564c59828083ad22bc1"
+    },
+    "title": "Arrow of God",
+    "author": [
+      {
+        "first_name": "Chinua",
+        "last_name": "Achebe"
+      }
+    ],
+    "publisher": [
+      {
+        "publisher_name": "Penguin Books"
+      }
+    ],
+    "ISBN": "978-0385474542",
+    "price": 14.99,
+    "quantity": 100,
+    "genre": [
+      "Fiction",
+      "Classic"
+    ]
+  },{
+    "_id": {
+      "$oid": "642d2564c59828083ad22bc2"
+    },
+    "title": "The Stranger",
+    "author": [
+      {
+        "first_name": "Albert",
+        "last_name": "Camus"
+      }
+    ],
+    "publisher": [
+      {
+        "publisher_name": "Vintage International"
+      }
+    ],
+    "ISBN": "978-0679720201",
+    "price": 12.99,
+    "quantity": 50,
+    "genre": [
+      "Fiction",
+      "Philosophical"
+    ]
+  },{
+    "_id": {
+      "$oid": "642d2564c59828083ad22bc3"
+    },
+    "title": "To Kill a Mockingbird",
+    "author": [
+      {
+        "first_name": "Harper",
+        "last_name": "Lee"
+      }
+    ],
+    "publisher": [
+      {
+        "publisher_name": "HarperCollins"
+      }
+    ],
+    "ISBN": "978-0060935467",
+    "price": 16.99,
+    "quantity": 150,
+    "genre": [
+      "Fiction",
+      "Classic"
+    ]
+  },{
+    "_id": {
+      "$oid": "642d2564c59828083ad22bc4"
+    },
+    "title": "Childhood",
+    "author": [
+      {
+        "first_name": "Leo",
+        "last_name": "Tolstoy"
+      }
+    ],
+    "publisher": [
+      {
+        "publisher_name": "Oxford University Press"
+      }
+    ],
+    "ISBN": "978-0198800545",
+    "price": 25.99,
+    "quantity": 50,
+    "genre": [
+      "Fiction",
+      "Classic"
+    ]
+  }
+]
